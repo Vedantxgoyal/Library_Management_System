@@ -1,3 +1,6 @@
+📚 Library Management System
+
+
 A Library Management System built to efficiently manage books, members, and transactions such as issuing and returning books. This project helps automate the traditional library workflow — reducing manual effort and improving record accuracy.
 
 🚀 Features
